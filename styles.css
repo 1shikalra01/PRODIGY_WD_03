@@ -28,7 +28,7 @@ body {
 .cell {
   width: 100px;
   height: 100px;
-  background-color: #b3fce5dc;
+  background-color: #b3fccbdc;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -100,7 +100,7 @@ button {
   padding: 1rem;
   border-radius: 0.5rem;
   border: 2px solid black;
-  font-size: 0.6rem;
+  font-size: 1rem;
   margin-left: 0.75rem;
   margin-right: 0.75rem;
   font-weight: 700;
